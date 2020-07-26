@@ -3,7 +3,7 @@ Continuous Professional Development Portfolio
 
 This is a portfolio of my continuous professional development. It stretches as far back as 2014.
 
-## It includes the following:
+It includes the following:
 
 ## Applied big data analytics
 
