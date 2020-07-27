@@ -5,6 +5,8 @@ This is a portfolio of my continuous professional development. It stretches as f
 
 It includes the following:
 
+## Advanced SQL
+
 ## Applied big data analytics
 
 ## Big data 101
@@ -21,6 +23,8 @@ It includes the following:
 
 ## Data science methodology 
 
+## Data visualization
+
 ## Data visualization with Python
 
 ## Essential skills for your career development
@@ -29,9 +33,19 @@ It includes the following:
 
 ## Introduction to cloud
 
+## Intro to machine learning
+
+## Intermediate machine learning
+
+## Intro to SQL
+
 ## Learn about current digital workplace trends
 
 ## NoSQL and DBaas
+
+## Pandas
+
+## Python
 
 ## SQL and rational databases 101
 
