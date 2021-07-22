@@ -1,32 +1,32 @@
 # CPD
 
-## About Me
+## About Me :wave:
 I am Natasha, a AEC (Architectural, engineering and construction) professional who is interested in Code. My Github will host a variety of content from Dynamo scripts to apps. I am interested in collaborating on projects with other code enthusiast, with the hope of improving on my skills and helping others along the way. Feel free to reach out to me on Twitter or Linkedin. [https://github.com/natnew] [https://www.linkedin.com/in/natasha-newbold/]
 Continuous Professional Development Portfolio
 
 
-## You can find me here
+## You can find me here 🌎
 * [https://github.com/natnew]
 * [https://www.linkedin.com/in/natasha-newbold/]
 * @NatashaTweets2
 
 
-## Current Projects
+## Current Projects 💻
 * Advanced Parametric Design Tools
 * Sustainable Design tools using Dynamo
 * Microsoft Apps
 * AEC And MFG collaboration: Digital Twins
 
-## My Skills 
+## My Skills 🚀
 `HTML` `CSS` `Python` `SAAS` `Javascript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
 
-## About This Repo
+## About This Repo 📖
 
-This is a portfolio of my continuous professional development. It stretches as far back as 2014.
+This is a portfolio of my **continuous professional development**. It stretches as far back as 2014.
 
 It includes the following:
 
-## Prior 2021
+## Prior 2021 🥇
 
 * Advanced SQL
 
@@ -76,7 +76,7 @@ It includes the following:
 
 * Wellbeing and resillience at work
 
-## 2020 - 2021
+## 2020 - 2021 🥇
 
 * Add-Details-to-the-Revit-Model
 
@@ -112,3 +112,8 @@ It includes the following:
 
 * Design-Review-using-the-BIM-360-Mobile-App
 
+* Efficiently-Share-Your-Model-with-the-Entire-Project-Team-Using-BIM-360-Design
+
+* Generating-Intelligent-Forms-Using-Massing-Tools-in-Revit
+
+* Getting-Started-with-Revit-or-Revit-LT
