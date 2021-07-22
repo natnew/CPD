@@ -116,3 +116,73 @@ It includes the following:
 * Generating-Intelligent-Forms-Using-Massing-Tools-in-Revit
 
 * Getting-Started-with-Revit-or-Revit-LT
+
+* How-to-Manage-Large-Surfaces-Efficiently
+
+* How-to-Set-up-a-Civil-3D-Project
+
+* Civil-3D-Surfaces-and-Site-Information-into-Revit
+
+* Layout-Curtain-Walls-Floors-and-Roofs-in-Revit
+
+* The-I-In-BIM-Through-Revit-Parameters
+
+* Leveraging-The-I-In-BIM-Using-Schedules
+
+* Managing-Point-Cloud-Data-in-Recap
+
+* Marking-Up-Shared-Views-for-Better-Coordination
+
+* Markups-and-issue-management-using-BIM360-mobile-app
+
+* Moving-from-2D-to-3D
+
+* Optimize-Your-Workflows-with-Generative-Design-Using-Dynamo
+
+* People-Flow-Toolkit-Integration-for-Movement-Simulation
+
+* Plan-Spaces-for-Health-Guidelines
+
+* Prepare-Your-Model-for-Creating-Room-Data-Sheets-to-Clearly-Communicate-Room-Requirements
+
+* Reduce-Errors-by-Using-Point-Clouds-in-Civil-3D
+
+* Reviewing-Managing-and-Resolving-Clashes
+
+* RFI-and-Checklist-Management-using-the-BIM-360-Mobile-App
+
+* Set-up-Autodesk-Account-for-Premium-Plan
+
+* Setup-BIM-360-for-Better-Project-Coordination-Using-the-Cloud
+
+* Set-up-Single-Sign-on-with-Autodesk-products
+
+* Sharing-Views-with-a-Wider-Team
+
+* Take-Advantage-of-GIS-Data-to-Determine-Where-to-Place-the-Buildings-on-the-Site
+
+* Take-Advantage-of-the-Information-In-the-Model-During-the-Documentation-Phase-to-Be-More-Efficient
+
+* Transition-to-named-user-licensing
+
+* Understand-What-a-BIM-Execution-Plan-is-and-Why-You-Need-One
+
+* BIM-360-to-utilize-your-CAD-Standards-and-guidelines
+
+* Use-InfraWorks-to-Bring-Civil-3D-and-Revit-Models-Together-for-Better-Collaboration
+
+* Use-Model-Builder-to-Display-the-Site-and-Add-GIS-Data
+
+* Use-Navisworks-for-3D-Coordination-to-Reduce-Rework-and-Project-Costs
+
+* Using-Random-Numbers-as-a-Design-Tool-with-Dynamo
+
+* Visualize-the-Building-Design-in-Revit
+
+* Visualizing-Building-Performance-Data-with-Forge
+
+* Win-Better-Work-by-Showing-Customers-More-Design-Options-Early
+
+* Win-Better-Work-From-Your-Plans-Elevations-and-Sections
+
+* Work-With-CAD-Models-From-Others-inside-Revit
