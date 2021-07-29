@@ -17,7 +17,7 @@ An AEC (Architectural, engineering and construction) professional who is interes
 * AEC And MFG collaboration: Digital Twins
 
 ## My Skills 🚀
-`HTML` `CSS` `Python` `SAAS` `Javascript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
+`HTML` `CSS` `Python` `SAAS` `JavaScript` `Github` `Low Code App Development` `Canvas Based Power Apps` `Model Driven Power Apps` `Digital Twins` `BIM Management`
 
 ## About This Repo 📖
 
